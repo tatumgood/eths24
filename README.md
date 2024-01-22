@@ -3,3 +3,4 @@
 [cd-public](https://cd-public.github.io/)
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
+[oscar](https://oscar-hoekman.github.io/)

@@ -3,6 +3,8 @@
 [cd-public](https://cd-public.github.io/)
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
+[bsshulman](https://bsshulman.github.io)
+
 
 
 [JordanFH](jfasoltholmes.github.io)
@@ -14,4 +16,3 @@
 [AademIsai](https://CollegeAadem.github.io/)
 
 [Sergio](sley3.github.io)
-

@@ -4,8 +4,9 @@
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
 
-[peytonS](https://peytonswan.github.io/)
+[horseplay333](https://horseplay333.github.io/)
 
+[peytonS](https://peytonswan.github.io/)
 
 [M](https://goblin68.github.io/)
 
@@ -13,12 +14,9 @@
 
 [oscar](https://oscar-hoekman.github.io/)
 
-
 [redskeroni](https://redskeroni.github.io/)
 
 [bsshulman](https://bsshulman.github.io)
-
-
 
 [JordanFH](jfasoltholmes.github.io)
 

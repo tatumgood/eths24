@@ -4,6 +4,9 @@
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
 
+[oscar](https://oscar-hoekman.github.io/)
+
+
 [redskeroni](https://redskeroni.github.io/)
 
 [bsshulman](https://bsshulman.github.io)
@@ -19,4 +22,5 @@
 [AademIsai](https://CollegeAadem.github.io/)
 
 [Sergio](sley3.github.io)
+
 

@@ -4,6 +4,8 @@
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
 
+[Harleen](https://harleenkbrar.github.io)
+
 [horseplay333](https://horseplay333.github.io/)
 
 [peytonS](https://peytonswan.github.io/)

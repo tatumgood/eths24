@@ -4,6 +4,9 @@
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
 
+[peytonS](https://peytonswan.github.io/)
+
+
 [M](https://goblin68.github.io/)
 
 [seanwho42](https://seanwho42.github.io)

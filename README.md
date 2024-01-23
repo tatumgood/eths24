@@ -4,6 +4,8 @@
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
 
+[Olivia S.](https://oeschutz-data352w.github.io/)
+
 [Elise F.](https://egfia83.github.io/)
 
 [AademIsai](https://CollegeAadem.github.io/)
